@@ -1,1 +1,2 @@
 # Automatas1
+Download the files that were upload and execute them in the ubuntu terminal as you do that it will ask you to enter a file name, in this case it will work with the PytoJava.txt after you press enter the file will show you the translate of the python code to a java code in the terminal. It doesn't generate a .java archive. Initially it didn't create the multiplication function, at this point it just creates the function but doesn't create the main which is necessary for the execution of the code if pasted in a .java file. 
