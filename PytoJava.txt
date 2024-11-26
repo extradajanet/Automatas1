@@ -1,0 +1,16 @@
+def multiplica(a,b):
+    resul = a * b - a 
+    return resul
+
+print(multiplica(5,6))
+
+public class Main {
+    public static int multiplica(int a, int b) {
+        int resul = a * b - a;
+        return resul;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(multiplica(5, 6));  
+    }
+}
